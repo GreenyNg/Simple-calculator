@@ -3,6 +3,8 @@
 ### Hiiii!
 So I decided to create a very basic calculator in my leisure time. You can view it <a href="https://greenyng.github.io/Simple-calculator/">here</a>!
 
+<img src="my_calculator.mp4" alt="Pink Basic Calculator"/>
+
 ## Things to BEWARE OF as you view the calculator:
 
 This is a basic calculator application written in JavaScript. However, there are a few issues that you should be aware of:
