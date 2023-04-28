@@ -1,7 +1,7 @@
 # MY SIMPLE BASIC CALCULATOR
 
 ## Hiiii!
-### So I decided to create a very basic calculator during my leisure time. You can view it <a href="https://greenyng.github.io/Simple-calculatior/">here</a>!
+### So I decided to create a very basic calculator during my leisure time. You can view it <a href="https://greenyng.github.io/Simple-calculator/">here</a>!
 
 ## Things to BEWARE OF as you view the calculator:
 
