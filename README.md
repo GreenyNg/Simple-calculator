@@ -3,7 +3,8 @@
 ### Hiiii!
 So I decided to create a very basic calculator in my leisure time. You can view it <a href="https://greenyng.github.io/Simple-calculator/">here</a>!
 
-<img src="my_calculator.mp4" alt="Pink Basic Calculator"/>
+![Video Demo](https://github.com/GreenyNg/repo/blob/main/my_calculator.mp4)
+
 
 ## Things to BEWARE OF as you view the calculator:
 
